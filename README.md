@@ -1,6 +1,7 @@
 datawrapper-treemap
 ===================
 
-Provides a simple treemap visualization to Datawrapper. Uses d3.layout.treemap to compute
-the layout but finally draws the rectangles using RaphaelJS.
+A simple treemap visualization for use in [Datawrapper](https://github.com/datawrapper/datawrapper).
+
+It uses [d3.layout.treemap](https://github.com/mbostock/d3/wiki/Treemap-Layout) to compute the layout but finally draws the rectangles using RaphaelJS.
 
