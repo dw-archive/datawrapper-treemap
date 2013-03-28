@@ -1,0 +1,21 @@
+{
+    "title": {
+        "en": "Treemap",
+        "de": "Tree Map",
+        "fr": "Treemap"
+    },
+    "version": "1.2.1",
+    "extends": "raphael-chart",
+    "author": {
+        "name": "gka",
+        "email": "gka@vis4.net"
+    },
+    "order": 70,
+    "dimensions": 1,
+    "color-by": "hierarchy",
+    "options": {
+    },
+    "libraries": [
+        "d3js/d3.treemap.js"
+    ]
+}
