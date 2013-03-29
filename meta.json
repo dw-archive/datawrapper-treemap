@@ -8,8 +8,8 @@
     "requires": "1.2.7",
     "extends": "raphael-chart",
     "author": {
-        "name": "gka",
-        "email": "gka@vis4.net"
+        "name": "Gregor Aisch",
+        "email": "gregor@datawrapper.de"
     },
     "order": 70,
     "dimensions": 1,
